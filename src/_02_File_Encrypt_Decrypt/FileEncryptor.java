@@ -30,7 +30,7 @@ public class FileEncryptor {
 	public static void main(String[] args) {
 		String code = "";
 		String file = "";
-		String s1 = JOptionPane.showInputDialog("Enter a message.");
+		String s1 = JOptionPane.showInputDialog("Enter a message(Without Special Characters).");
 		String s2 = JOptionPane.showInputDialog("Enter a number(That is not negitive).");
 		int upZ = 90;
 		int lowZ = 122;
