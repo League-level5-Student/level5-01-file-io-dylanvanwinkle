@@ -1,2 +1,5 @@
-
-This is me writing a message
+hi
+bye
+hi and bye
+see you later
+have a good day
