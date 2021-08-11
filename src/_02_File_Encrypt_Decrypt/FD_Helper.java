@@ -63,3 +63,5 @@ return file;
 		return -1;
 	}
 }
+
+//Copyright © 2019 Dylan Van Winkle
